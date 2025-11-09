@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Rabiikhenissi/Rabiikhenissi/main/image.png" alt="Banner" width="100%"/>
 # 💫 About Me:
 - 🎓 I’m currently pursuing my **Engineering degree**  <br>- 🚀 I’ve completed projects like **Zoovana** (veterinary management app)  and  **Learnify** (AI-powered e-learning platform)<br>- 🤝 I’m looking to collaborate on **web apps, AI projects, or innovative software solutions**  <br>- 🌱 I’m currently learning **advanced backend systems and cloud deployment**  <br>- 💬 Ask me about **Angular, Node.js, Spring Boot, Firebase, or app development**  <br>- ⚡ Fun fact: I code better after a solid gaming session 🎮
 
